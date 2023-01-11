@@ -26,7 +26,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.inventory.databinding.ItemListFragmentBinding
 
 /**
- * Main fragment displaying details for all items in the database.
+ * Main fragment displaying details for all items in the data.
  */
 class ItemListFragment : Fragment() {
 
