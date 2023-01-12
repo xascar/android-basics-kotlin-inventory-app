@@ -1,4 +1,3 @@
 package com.example.inventory
 
-class ItemData {
-}
+data class ItemData(val itemId: Int, val itemName: String, val itemPrice: String, val itemQuantity: String)
